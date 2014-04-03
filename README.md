@@ -1,4 +1,4 @@
-www.erm1s.com | www.github.com/erm1s | erm1s.n1nja@gmail.com
+http://eigrp.co | www.github.com/opt1 | opt1@eigrp.co
 
 Requirements:
 
